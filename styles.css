@@ -1,0 +1,41 @@
+body {
+    font-family: "Gill Sans", sans-serif;;
+    background-color: white;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+    font-size: 1.2rem;
+}
+
+header {
+    background-color:rgb(127, 6, 121);
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+section {
+    margin: 30px;
+    padding: 30px;
+    background-color: whitesmoke;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h2, h4 {
+    color:rgb(127, 6, 121);
+}
+
+h3 {
+    color:rgb(127, 6, 121);
+}
+
+/* Styles généraux du footer */
+footer {
+    text-align: center;
+    padding: 50px;
+    background-color:rgb(127, 6, 121);
+    color: white;
+   
+}
